@@ -1,0 +1,7 @@
+Assignment One 
+1. The developer of Hadoop was Doug Cutting, A.
+2. The mechanism used by Hadoop to make NameNode resilient to failure is taking a backup of a filesystem metadata to a local disk and a remote NFS mount, A
+3. The servers used for creating Hadoop clusters are commodity hardware, B
+4. As compared to RDBMS, Hadoop works better on unstructured and semi-structured data, D
+5. You choose big data tools for processing when you encounter processing challenges in terms of Volume, Velocity and Variety 
+6. 15mins
